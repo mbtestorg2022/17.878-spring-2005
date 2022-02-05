@@ -4,17 +4,166 @@ title: Calendar
 uid: 0daf237c-d56a-3464-9fa4-a7c050c92700
 ---
 
-| Lec # | Topics | KEY DATES |
-| --- | --- | --- |
-| 1 | Social Science as Science | &nbsp; |
-| 2 | Forms of "Case-Oriented" Research | Assignment 1 distributed |
-| 3 | Hypotheses and Arguments in Qualitative Analysis | Assignment 1 due |
-| 4 | Defects in Research Design as Plausible Rival Explanations  {{< br >}}(PREs) | &nbsp; |
-| 5 | PREs in the Context of Qualitative Data Collection | &nbsp; |
-| 6 | Strategies for Purposeful Case Selection | Assignment 2 distributed |
-| 7 | Within-Case Study Analysis I | Assignment 2 due |
-| 8 | Within-Case Study Analysis II: Mechanisms as Causation | &nbsp; |
-| 9 | Within-Case Study Analysis III: the "New" Process Tracing | Assignment 3 distributed |
-| 10 | Learning from Multiple Case Studies | Assignment 3 due |
-| 11 | Improving Rigor and Credibility | &nbsp; |
-| 12 | Counterfactuals and Evidence |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Social Science as Science
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Forms of "Case-Oriented" Research
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 distributed
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Hypotheses and Arguments in Qualitative Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Defects in Research Design as Plausible Rival Explanations  
+(PREs)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+PREs in the Context of Qualitative Data Collection
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Strategies for Purposeful Case Selection
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 distributed
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Within-Case Study Analysis I
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Within-Case Study Analysis II: Mechanisms as Causation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Within-Case Study Analysis III: the "New" Process Tracing
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 distributed
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Learning from Multiple Case Studies
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Improving Rigor and Credibility
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Counterfactuals and Evidence
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
